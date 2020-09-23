@@ -1128,7 +1128,7 @@ File: scss
   left: 0px; }
   .search-box .app-search input {
     width: 100.5%;
-    padding: 25px 40px 25px 20px;
+    padding: 35px;
     border-radius: 0px;
     font-size: 17px;
     -webkit-transition: 0.5s ease-in;
@@ -1149,7 +1149,6 @@ File: scss
 .mini-sidebar .top-navbar .navbar-header {
   width: 70px;
   text-align: center;
-  -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
   flex-shrink: 0;
   padding-left: 0px; }
@@ -2697,7 +2696,7 @@ Form Material page
   overflow: hidden; }
 
 .form-material .form-control {
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   background-position: center bottom, center calc(100% - 1px);
   background-repeat: no-repeat;
   background-size: 0 2px, 100% 1px;
@@ -5170,7 +5169,6 @@ File: scss
 
 .social-widget .soc-content {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   text-align: center; }
@@ -5364,7 +5362,6 @@ File: scss
 
 .activity-box .activity-item {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   margin-bottom: 30px; }
@@ -5605,7 +5602,6 @@ File: scss
 @media (min-width: 1650px) {
   .widget-app-columns {
     -webkit-column-count: 3;
-    -moz-column-count: 3;
     column-count: 3; }
   .campaign {
     height: 365px !important; }
@@ -5626,7 +5622,6 @@ File: scss
 @media (max-width: 1370px) {
   .widget-app-columns {
     -webkit-column-count: 2;
-    -moz-column-count: 2;
     column-count: 2; }
   .website-visitor {
     height: 353px; }
@@ -5648,7 +5643,6 @@ File: scss
     transition: 0.2s ease-in; }
   .widget-app-columns {
     -webkit-column-count: 1;
-    -moz-column-count: 1;
     column-count: 1; }
   .inbox-center a {
     width: 200px; }
@@ -5664,7 +5658,6 @@ File: scss
     display: block !important; }
     .d-flex.no-block {
       display: -webkit-box !important;
-      display: -webkit-flex !important;
       display: -ms-flexbox !important;
       display: flex !important; } }
 
@@ -5674,7 +5667,6 @@ File: scss
 @media (min-width: 768px) {
   .navbar-header {
     width: 240px;
-    -webkit-flex-shrink: 0;
     -ms-flex-negative: 0;
     flex-shrink: 0; }
     .navbar-header .navbar-brand {
@@ -5710,23 +5702,19 @@ File: scss
     .topbar .top-navbar {
       -webkit-box-orient: horizontal;
       -webkit-box-direction: normal;
-      -webkit-flex-direction: row;
       -ms-flex-direction: row;
       flex-direction: row;
-      -webkit-flex-wrap: nowrap;
       -ms-flex-wrap: nowrap;
       flex-wrap: nowrap;
       -webkit-align-items: center; }
       .topbar .top-navbar .navbar-collapse {
         display: -webkit-box;
-        display: -webkit-flex;
         display: -ms-flexbox;
         display: flex;
         width: 100%; }
       .topbar .top-navbar .navbar-nav {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
-        -webkit-flex-direction: row;
         -ms-flex-direction: row;
         flex-direction: row; }
         .topbar .top-navbar .navbar-nav > .nav-item.show {
