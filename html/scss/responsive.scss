@@ -126,12 +126,7 @@ File: scss
     .card-group .card:not(:first-child):not(:last-child) {
         border-right: 1px solid rgba(0, 0, 0, 0.03);
     }
-    .material-icon-list-demo .icons div {
-        width: 33%;
-        padding: 15px;
-        display: inline-block;
-        line-height: 40px;
-    }
+    
     .mini-sidebar {
         .page-wrapper {
             margin-left: 70px;
