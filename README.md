@@ -14,11 +14,11 @@
 
 <!-- Description of Template -->
 <p>
-  Is your biggest challenge selecting the most suitable free bootstrap 4 admin dashboard templates for your project? If yes, WrapPixel has the solution for you. You can download AdminPro Bootstrap Lite for free that is based on the Bootstrap 4 framework and CSS. This multipurpose template has a flexible layout, amazing modular design, and easy customization options. 
+  Is your biggest challenge selecting the most suitable free bootstrap 5 admin dashboard templates for your project? If yes, WrapPixel has the solution for you. You can download AdminPro Bootstrap Lite for free that is based on the Bootstrap 5 framework and CSS. This multipurpose template has a flexible layout, amazing modular design, and easy customization options. 
 </p>
 
 <p>
-  Using these templates you can save a lot of budget on expensive designers. Though it comes with basic features but very handy and useful. This admin template bootstrap 4 can play a major role in transforming the simple look and feel of your web application into a stunning and exclusive appearance. If you want to use it for commercial purposes, WrapPixel handcrafted an amazing pro version of this template. You can check out and purchase today itself.
+  Using these templates you can save a lot of budget on expensive designers. Though it comes with basic features but very handy and useful. This admin template bootstrap 5 can play a major role in transforming the simple look and feel of your web application into a stunning and exclusive appearance. If you want to use it for commercial purposes, WrapPixel handcrafted an amazing pro version of this template. You can check out and purchase today itself.
 </p>
 
 <!-- Versions of Template -->
@@ -71,7 +71,7 @@
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
   </li>
   <li>
     <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
@@ -98,7 +98,7 @@
 <h2>Useful Links</h2>
 <ul>
 <li><a href="https://www.wrappixel.com/templates/category/admin-template/">Admin Template</a> from WrapPixel</li>
-<li><a href="https://www.wrappixel.com/">Bootstrap 4 Templates</a> from WrapPixel</li>
+<li><a href="https://www.wrappixel.com/">Bootstrap 5 Templates</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/bootstrap-admin-templates/">Bootstrap Admin Template</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/react-templates/">React Dashboard</a> from WrapPixel</li>
 <li><a href="https://www.wrappixel.com/templates/category/vuejs-templates/">Vue Templates</a> from WrapPixel</li>
