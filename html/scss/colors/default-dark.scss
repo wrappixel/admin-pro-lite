@@ -5,15 +5,15 @@ Email: niravjoshi87@gmail.com
 File: scss
 */
 
-@import '../variable';
+@import "../variable";
 $themecolor: #398bf7;
 $themecolor-dark: #028ee1;
 $topbar: #fff;
-$sidebar:#242a33;
+$sidebar: #242a33;
 $sidebar-text: #687384;
 $sidebar-icons: #424a56;
 $sidebar-dark: #1c2128;
-$sidebar-alt:#1c2128;
+$sidebar-alt: #1c2128;
 $themecolor-alt: #26c6da;
 $topbar-alt: #398bf7;
 
@@ -22,60 +22,58 @@ $topbar-alt: #398bf7;
 *******************/
 
 .topbar {
-    background: $topbar;
-    .top-navbar .navbar-header .navbar-brand .light-logo {
-        display: none;
+  background: $topbar;
+  .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: none;
+  }
+  .top-navbar {
+    .navbar-nav > .nav-item > span {
+      color: $themecolor;
     }
-    .top-navbar{
-        .navbar-nav>.nav-item>span {
-            color:$themecolor;
-        }
+  }
+  .navbar-light .navbar-nav .nav-item > {
+    a.nav-link {
+      color: #a6b7bf;
+      &:hover,
+      &:focus {
+        color: #242a33 !important;
+      }
     }
-    .navbar-light .navbar-nav .nav-item > {
-        a.nav-link {
-            color: #a6b7bf;
-            &:hover,
-            &:focus {
-                color:#242a33!important;
-            }
-        }
-    }
-    
+  }
 }
 
 .logo-center .topbar {
-    .navbar-header {
-        text-align: center;
-        padding-left: 0px;
-        box-shadow: none;
-    }
-    .top-navbar .navbar-header .navbar-brand .dark-logo {
-        display: none;
-    }
-    .top-navbar .navbar-header .navbar-brand .light-logo {
-        display: inline-block;
-        color: rgba(255, 255, 255, 0.8);
-    }
+  .navbar-header {
+    text-align: center;
+    padding-left: 0px;
+    box-shadow: none;
+  }
+  .top-navbar .navbar-header .navbar-brand .dark-logo {
+    display: none;
+  }
+  .top-navbar .navbar-header .navbar-brand .light-logo {
+    display: inline-block;
+    color: rgba(255, 255, 255, 0.8);
+  }
 }
-
 
 /*******************
 /*General Elements
 *******************/
 
 a {
-    color: $themecolor;
+  color: $themecolor;
 }
 
 a.link {
-    &:hover,
-    &:focus {
-        color: $themecolor!important;
-    }
+  &:hover,
+  &:focus {
+    color: $themecolor !important;
+  }
 }
 
 .bg-theme {
-    background-color: $themecolor !important;
+  background-color: $themecolor !important;
 }
 
 .pagination > .active > a,
@@ -84,44 +82,43 @@ a.link {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-    background-color: $themecolor;
-    border-color: $themecolor;
+  background-color: $themecolor;
+  border-color: $themecolor;
 }
 
 .right-sidebar {
-    .rpanel-title {
-        background: $themecolor;
-    }
+  .rpanel-title {
+    background: $themecolor;
+  }
 }
 
 .stylish-table {
-    tbody tr {
-        &:hover,
-        &.active {
-            border-left: 4px solid $themecolor;
-        }
+  tbody tr {
+    &:hover,
+    &.active {
+      border-left: 4px solid $themecolor;
     }
+  }
 }
 
 .text-themecolor {
-    color: $themecolor!important;
+  color: $themecolor !important;
 }
 
 .profile-tab,
 .customtab {
-    li {
-        a.nav-link {
-            &.active {
-                border-bottom: 2px solid $themecolor;
-                color: $themecolor;
-            }
-            &:hover {
-                color: $themecolor;
-            }
-        }
+  li {
+    a.nav-link {
+      &.active {
+        border-bottom: 2px solid $themecolor;
+        color: $themecolor;
+      }
+      &:hover {
+        color: $themecolor;
+      }
     }
+  }
 }
-
 
 /*******************
 /*Buttons
@@ -129,20 +126,19 @@ a.link {
 
 .btn-themecolor,
 .btn-themecolor.disabled {
+  background: $themecolor;
+  color: $white;
+  border: 1px solid $themecolor;
+  &:hover {
     background: $themecolor;
-    color: $white;
+    opacity: 0.7;
     border: 1px solid $themecolor;
-    &:hover {
-        background: $themecolor;
-        opacity: 0.7;
-        border: 1px solid $themecolor;
-    }
-    &.active,
-    &:focus {
-        background: $themecolor-dark;
-    }
+  }
+  &.active,
+  &:focus {
+    background: $themecolor-dark;
+  }
 }
-
 
 /*******************
 /*sidebar navigation
@@ -150,59 +146,58 @@ a.link {
 
 .card-no-border .left-sidebar,
 .card-no-border .sidebar-nav {
-    background: $sidebar;
+  background: $sidebar;
 }
 
 .mini-sidebar .sidebar-nav {
-    background: transparent;
+  background: transparent;
 }
 
 @media (min-width: 768px) {
-    .mini-sidebar .sidebar-nav #sidebarnav>li>ul {
-        background: $sidebar-dark;
-    }
+  .mini-sidebar .sidebar-nav #sidebarnav > li > ul {
+    background: $sidebar-dark;
+  }
 }
 
 .sidebar-nav {
-    background: $sidebar;
+  background: $sidebar;
 }
 
 .user-profile .profile-text a {
-    color: $sidebar-text!important;
+  color: $sidebar-text !important;
 }
 
 .card-no-border .sidebar-footer {
-    background: $sidebar-dark;
+  background: $sidebar-dark;
 }
 
 .label-themecolor {
-    background: $themecolor;
+  background: $themecolor;
 }
 
-.sidebar-nav>ul>li.active>a {
+.sidebar-nav > ul > li.active > a {
+  color: $white;
+  border-color: $themecolor;
+  i {
     color: $white;
-    border-color: $themecolor;
-    i {
-        color: $white;
-    }
+  }
 }
 
 .sidebar-nav ul li a {
-    &.active,
-    &:hover {
-        color: $white;
-        i {
-            color: $white;
-        }
+  &.active,
+  &:hover {
+    color: $white;
+    i {
+      color: $white;
     }
+  }
 }
 
 .sidebar-nav ul li.nav-small-cap {
-    color: $sidebar-text;
+  color: $sidebar-text;
 }
-@media (min-width: 768px){
-    .mini-sidebar .sidebar-nav #sidebarnav > li:hover > a {
-        
-        background: $sidebar-alt;
-    }
+@media (min-width: 768px) {
+  .mini-sidebar .sidebar-nav #sidebarnav > li:hover > a {
+    background: $sidebar-alt;
+  }
 }

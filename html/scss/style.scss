@@ -5,7 +5,6 @@ Email: niravjoshi87@gmail.com
 File: scss
 */
 
-
 /**
  * Table Of Content
  *
@@ -19,17 +18,17 @@ File: scss
  *	8. Custom Templates
  */
 
-@import 'variable';
-@import 'app';
-@import 'sidebar';
-@import 'pages/pages';
-@import '../scss/icons/font-awesome/css/font-awesome.min.css';
-@import '../scss/icons/simple-line-icons/css/simple-line-icons.css';
-@import '../scss/icons/linea-icons/linea.css';
-@import '../scss/icons/themify-icons/themify-icons.css';
+@import "variable";
+@import "app";
+@import "sidebar";
+@import "pages/pages";
+@import "../scss/icons/font-awesome/css/font-awesome.min.css";
+@import "../scss/icons/simple-line-icons/css/simple-line-icons.css";
+@import "../scss/icons/linea-icons/linea.css";
+@import "../scss/icons/themify-icons/themify-icons.css";
 @import "../scss/icons/material-design-iconic-font/css/materialdesignicons.min.css";
-@import 'widgets/widgets';
-@import 'grid';
-@import 'responsive';
-@import '../css/spinners.css';
-@import '../css/animate.css';
+@import "widgets/widgets";
+@import "grid";
+@import "responsive";
+@import "../css/spinners.css";
+@import "../css/animate.css";
