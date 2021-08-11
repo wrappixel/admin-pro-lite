@@ -61,3 +61,14 @@
 .font-15 {
     font-size: 15px;
 }
+
+.lp-custom-row {
+    .row {
+        margin-right: -20px;
+        margin-left: -20px;
+    }
+    .row>* {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
