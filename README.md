@@ -1,7 +1,7 @@
 <!-- # admin-pro-lite -->
 <!-- Heading of Template -->
 <h1>
-  <a href="https://wrappixel.com/demos/angular-admin-templates/admin-pro-angular-lite/angular">Admin Pro Bootstrap Admin Lite</a>
+  <a href="https://www.wrappixel.com/templates/adminpro-free/">Admin Pro Bootstrap Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -56,7 +56,7 @@
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://www.wrappixel.com/demos/free-admin-templates/admin-pro-lite/html/" rel="nofollow">https://www.wrappixel.com/demos/free-admin-templates/admin-pro-lite/html/</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/landingpage/index.html" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/landingpage/index.html</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/adminpro-lite/" rel="nofollow">
@@ -91,7 +91,7 @@
 </a>
 <p>
    Checkout our premium version of AdminPro Bootstrap Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/admin-templates/adminpro-bootstrap-latest/admin-pro/src/main/">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/bootstrap/adminpro-bootstrap/package/html/main/">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
