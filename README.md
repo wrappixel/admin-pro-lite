@@ -1,5 +1,5 @@
 # <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/html/index.html">Adminpro Free</a>
-AdminPro Bootstrap Admin Dashboard
+AdminPro Bootstrap Lite
 
 <!-- Main image of Template -->
 <a target="_blank" href="https://www.wrappixel.com/templates/adminpro-free/">
@@ -22,7 +22,7 @@ AdminPro Bootstrap Admin Dashboard
     <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/html/index.html">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/landingpage/index.html">Live Preview</a>
+  <a href="https://bootstrapdemos.wrappixel.com/adminpro/dist/main/index.html">Live Preview</a>
   </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ AdminPro Bootstrap Admin Dashboard
   7+ Pages Template
   </td>
   <td>
-  600+ Page Templates
+  500+ Page Templates
   </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ AdminPro Bootstrap Admin Dashboard
   -
   </td>
   <td>
-  5+ Ready to Use App
+  12+ Ready to Use App
   </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ AdminPro Bootstrap Admin Dashboard
 </a>
 <p>
   Checkout our premium version of AdminPro Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://demos.wrappixel.com/free-admin-templates/bootstrap/adminpro-bootstrap-free/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro/">Download</a>
+  <a href="https://bootstrapdemos.wrappixel.com/adminpro/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro/">Download</a>
 </p>
 
 <!-- Versions of Template -->
