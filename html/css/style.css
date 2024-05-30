@@ -2275,9 +2275,9 @@ Buttons
           box-shadow: 0 2px 2px 0 rgba(169, 169, 169, 0.14), 0 3px 1px -2px rgba(169, 169, 169, 0.2), 0 1px 5px 0 rgba(169, 169, 169, 0.12);
   -webkit-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
-  background-color: #ffffff;
-  color: #67757c;
-  border-color: #cccccc;
+  background-color: #6c757d;
+  color: #ffffff;
+  border-color: #6c757d;
 }
 .btn-secondary:hover,
 .btn-secondary.disabled:hover {
@@ -2297,7 +2297,7 @@ Buttons
 }
 
 .btn-secondary.disabled:hover, .btn-secondary.disabled:focus, .btn-secondary.disabled:active {
-  color: #67757c !important;
+  color: #ffffff !important;
   background-color: #ffffff;
   border-color: #cccccc;
   cursor: default;

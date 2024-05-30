@@ -109,20 +109,20 @@ Buttons
 
 .btn-secondary,
 .btn-secondary.disabled {
-  box-shadow: $default-shadow;
+  box-shadow: $secondary-shadow;
   transition: 0.2s ease-in;
-  background-color: $white;
+  background-color: $secondary;
   color: $bodytext;
   border-color: $secondary;
   &:hover {
-    box-shadow: $default-shadow-hover;
-    color: $white !important;
+    box-shadow: $secondary-shadow-hover;
+    color: $secondary !important;
   }
   &.active,
   &:active,
   &:focus {
-    box-shadow: $default-shadow-hover;
-    color: $white !important;
+    box-shadow: $secondary-shadow-hover;
+    color: $secondary !important;
     background: $dark;
     border-color: $dark;
   }
@@ -132,7 +132,7 @@ Buttons
   &:focus,
   &:active {
     color: $bodytext !important;
-    background-color: $white;
+    background-color: $secondary;
     border-color: $secondary;
     cursor: default;
   }

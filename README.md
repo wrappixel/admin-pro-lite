@@ -3,7 +3,7 @@ AdminPro Bootstrap Lite
 
 <!-- Main image of Template -->
 <a target="_blank" href="https://www.wrappixel.com/templates/adminpro-free/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-lite-y.jpg" />
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-free-bootstrap-dashboard-wpn.jpg" />
 </a>
 
 
@@ -30,7 +30,7 @@ AdminPro Bootstrap Lite
       <a href="https://www.wrappixel.com/templates/adminpro-free/">Download Now</a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/adminpro/">Purchase Now</a>
+    <a href="https://www.wrappixel.com/templates/adminpro/?ref=33">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -134,12 +134,12 @@ AdminPro Bootstrap Lite
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/adminpro/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-bootstrap-admin-template-y.jpg" alt="">
+<a target="_blank" href="https://www.wrappixel.com/templates/adminpro/?ref=33">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-bootstrap-dashboard-wpn.jpg" alt="">
 </a>
 <p>
   Checkout our premium version of AdminPro Bootstrap Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://bootstrapdemos.wrappixel.com/adminpro/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro/">Download</a>
+  <a href="https://bootstrapdemos.wrappixel.com/adminpro/dist/main/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro/?ref=33">Download</a>
 </p>
 
 <!-- Versions of Template -->
