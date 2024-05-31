@@ -147,7 +147,7 @@ AdminPro Bootstrap Lite
 <table>
 <thead>
 <tr>
-<th>React Js</th>
+<th>Bootstrap</th>
 <th>Angular</th>
 <th>Nuxt</th>
 <th>Vue Js</th>
@@ -156,23 +156,23 @@ AdminPro Bootstrap Lite
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-react-dashboard-y.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/adminpro/" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-bootstrap-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/adminpro-angular-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/adminpro-angular-dashboard-y.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-angular-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/adminpro-nuxtjs/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/07/adminpro-nuxtjs.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-nuxtjs-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
   <a href="https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/10/adminpro-vuetify-dasboard-template-y.jpg" alt="" style="max-width:150px;">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/adminpro-vuetify-dashboard-wpn.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 </td>
