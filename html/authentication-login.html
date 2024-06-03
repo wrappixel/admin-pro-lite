@@ -35,25 +35,55 @@
   <!-- ============================================================== -->
   <!-- Main wrapper - style you can find in pages.scss -->
   <!-- ============================================================== -->
-  <section id="wrapper" class="error-page">
-    <div class="error-box">
-      <div class="error-body text-center">
-        <h1>404</h1>
-        <h3 class="text-uppercase">Page Not Found !</h3>
-        <p class="text-muted mt-4 mb-4">
-          YOU SEEM TO BE TRYING TO FIND HIS WAY HOME
-        </p>
-        <a href="index.html" class="
-              btn btn-info btn-rounded
-              waves-effect waves-light
-              mb-5
-              text-white
-            ">Back to home</a>
+  <section id="wrapper" class="authentication-page">
+    <div
+      class="position-relative overflow-hidden radial-gradient min-vh-100 d-flex align-items-center justify-content-center">
+      <div class="d-flex align-items-center justify-content-center w-100">
+        <div class="row justify-content-center w-100">
+          <div class="col-md-8 col-lg-6 col-xxl-3 auth-card">
+            <div class="card mb-0">
+              <div class="card-body">
+                <a href="./index.html" class="text-nowrap logo-img text-center d-block py-3 w-100">
+                  <!-- Logo icon --><b>
+                    <img src="../assets/images/logo-icon.png" alt="homepage" class="dark-logo" />
+                  </b>
+                  <!--End Logo icon -->
+                  <!-- Logo text -->
+                  <span>
+                    <img src="../assets/images/logo-text.png" alt="homepage" class="dark-logo" />
+                  </span>
+                </a>
+                <p class="text-center fw-bolder font-14">Your Social Campaigns</p>
+                <form>
+                  <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Username</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  </div>
+                  <div class="mb-4">
+                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1">
+                  </div>
+                  <div class="d-flex align-items-center justify-content-between mb-4">
+                    <div class="form-check p-l-0 mb-0">
+                      <input class="form-check-input info" type="checkbox" value="" id="flexCheckChecked">
+                      <label class="form-check-label text-dark mb-0" for="flexCheckChecked">
+                        Remeber this Device
+                      </label>
+                    </div>
+                    <a class="text-info fw-bolder font-14" href="./index.html">Forgot Password ?</a>
+                  </div>
+                  <a href="./index.html" class="btn btn-info w-100 py-8 mb-4 rounded-2 font-14">Sign In</a>
+                  <div class="d-flex align-items-center justify-content-center">
+                    <p class="mb-0 fw-bolder">New to AdminPro?</p>
+                    <a class="text-info fw-bolder ms-2 font-14" href="./authentication-register.html">Create an
+                      account</a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-      <footer class="footer text-center">
-        © 2024 Admin Pro by
-        <a href="https://www.wrappixel.com/">wrappixel.com</a>
-      </footer>
     </div>
   </section>
   <!-- ============================================================== -->

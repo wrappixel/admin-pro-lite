@@ -816,6 +816,7 @@ ul#themecolors {
   right: 0;
   border-top: 1px solid $border;
   background: $white;
+  text-align: center;
 }
 
 /*******************
@@ -1105,4 +1106,34 @@ Notification page Jquery toaster
 .jq-icon-warning {
   background-color: $warning;
   color: $white;
+}
+
+
+// ----------------------------------------------
+// Background Style
+// ----------------------------------------------
+
+.radial-gradient {
+  position: relative;
+
+  &::before {
+      content: "";
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      opacity: 0.3;
+      background: radial-gradient(rgb(210, 241, 223), rgb(211, 215, 250), rgb(186, 216, 244)) 0% 0% / 400% 400%;
+      animation: 15s ease 0s infinite normal none running gradient;
+  }
+}
+
+.auth-card {
+  max-width: 460px;
+  width: 100%;
+}
+
+.authentication-page{
+  .d-flex {
+    display: flex !important;
+  }
 }

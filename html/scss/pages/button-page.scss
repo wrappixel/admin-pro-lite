@@ -107,26 +107,26 @@ Buttons
   }
 }
 
-.btn-secondary,
-.btn-secondary.disabled {
-  box-shadow: $secondary-shadow;
-  transition: 0.2s ease-in;
-  background-color: $secondary;
-  color: $bodytext;
-  border-color: $secondary;
-  &:hover {
-    box-shadow: $secondary-shadow-hover;
-    color: $secondary !important;
-  }
-  &.active,
-  &:active,
-  &:focus {
-    box-shadow: $secondary-shadow-hover;
-    color: $secondary !important;
-    background: $dark;
-    border-color: $dark;
-  }
-}
+// .btn-secondary,
+// .btn-secondary.disabled {
+//   box-shadow: $secondary-shadow;
+//   transition: 0.2s ease-in;
+//   background-color: $secondary;
+//   color: $bodytext;
+//   border-color: $secondary;
+//   &:hover {
+//     box-shadow: $secondary-shadow-hover;
+//     color: $secondary !important;
+//   }
+//   &.active,
+//   &:active,
+//   &:focus {
+//     box-shadow: $secondary-shadow-hover;
+//     color: $secondary !important;
+//     background: $dark;
+//     border-color: $dark;
+//   }
+// }
 .btn-secondary.disabled {
   &:hover,
   &:focus,
